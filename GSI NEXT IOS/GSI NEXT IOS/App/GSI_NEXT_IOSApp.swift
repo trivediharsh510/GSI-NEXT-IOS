@@ -11,7 +11,7 @@ import SwiftUI
 struct GSI_NEXT_IOSApp: App {
     var body: some Scene {
         WindowGroup {
-            LoginView()
+            ContentView()
         }
     }
 }
